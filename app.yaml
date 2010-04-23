@@ -33,6 +33,9 @@ handlers:
 - url: /mailer
   script: main.python
 
+- url: /mailer2
+  script: main.python
+
 - url: /tasks
   static_dir: static/tasks
 
