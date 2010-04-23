@@ -1,1 +1,0 @@
-This is a sample project which exposes a python based data service on GAE
